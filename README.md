@@ -1,4 +1,4 @@
 # Whiteboard-Application
 A Java application which allows users to draw shapes, lines, and text on a whiteboard and mirror it on another instance of the applicaiton.
 
-I worked on this project with Jennifer Hsuing.
+I worked on this project with Jennifer Hsiung.
